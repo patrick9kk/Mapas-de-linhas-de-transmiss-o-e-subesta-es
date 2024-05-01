@@ -8,3 +8,9 @@ Para a construção dos mapas, utilizei bases de dados abertas da EPE e do IBGE.
 
 
 Estou à disposição para conversar sobre o projeto conforme o seu avanço e compartilhar as funções que pretendo implementar.
+
+
+
+Para abrir os mapas:
+
+Extraia os arquivos. Em cada pasta, você encontrará um arquivo HTML chamado "index". É nesse arquivo que você poderá abrir o mapa em seu navegador.
